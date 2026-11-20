@@ -10,7 +10,7 @@ redirect_from:
 
 # Junteng Liu
 
-Junteng Liu is a first-year PhD candidate at the [HKUST NLP Group](https://github.com/Vicent0205). His research focuses on natural language processing and machine learning, with recorded interests in LLM reasoning and reinforcement learning, hallucination in vision-language models (VLM), and LLM truthfulness and interpretability.
+Junteng Liu is a first-year PhD candidate at the HKUST NLP Group. His research focuses on natural language processing and machine learning, with recorded interests in LLM reasoning and reinforcement learning, hallucination in vision-language models (VLM), and LLM truthfulness and interpretability.
 
 > The information on this page is limited to the personal details, academic background, research experience, publications, skills, and contact information recorded in memory.
 
@@ -34,7 +34,7 @@ Junteng Liu is a first-year PhD candidate at the [HKUST NLP Group](https://githu
 
 - **Ph.D. in Computer Science**, 2024–Present.
 - PhD candidate in the HKUST NLP Group, led by Professor Junxian He.
-- Supervisor: [Professor Junxian He](https://github.com/Vicent0205) *(the memory records him as Professor at HKUST NLP Group and Junteng Liu's PhD supervisor; the link above is the recorded GitHub profile rather than a separately recorded HKUST URL)*.
+- Professor Junxian He is recorded as Junteng Liu's PhD supervisor and as a Professor at HKUST NLP Group.
 
 ### Shanghai Jiao Tong University
 
@@ -72,7 +72,7 @@ Junteng Liu's recorded research combines natural language processing and machine
 
 ## Publications
 
-All six publications recorded in memory are listed here. They are also represented on the [Publications subpage](/LJT-Homepage/publications/). The Google Scholar profile recorded in memory is available [here](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate).
+All six publications recorded in memory are listed here. They are also presented on the [Publications subpage]({{ '/publications/' | relative_url }}). The Google Scholar profile recorded in memory is available [here](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate).
 
 ### First-author Publications
 
@@ -133,4 +133,4 @@ No additional programming languages, frameworks, certifications, or tools are sp
 - **Google Scholar:** <https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate>
 - **X (Twitter):** [@junteng88716710](https://x.com/junteng88716710)
 
-For the complete publication list sorted by publication date, see the recorded [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate). The site's [Publications page](/LJT-Homepage/publications/) also contains the six publications recorded in memory.
+For the complete publication list sorted by publication date, see the recorded [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate). The site's [Publications page]({{ '/publications/' | relative_url }}) also contains the six publications recorded in memory.
