@@ -1,14 +1,23 @@
 ---
-title: "Paper Title Number 3"
+title: "On the Universal Truthfulness Hyperplane Inside LLMs"
 collection: publications
-category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+category: publications
+permalink: /publications/universal-truthfulness-hyperplane
+date: 2024-01-01
+recorded_year: "2024"
+venue: "EMNLP 2024"
+authorship: "First author — Junteng Liu"
+code_repository: "Universal_Truthfulness_Hyperplane"
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+**First author — Junteng Liu**
+
+- **Recorded venue/year:** EMNLP 2024 (Conference on Empirical Methods in Natural Language Processing)
+- **Authors:** Junteng Liu, Shiqi Chen, Yu Cheng, Junxian He
+- **Recorded code repository:** **Universal_Truthfulness_Hyperplane**
+
+## Summary from Memory
+
+This work concerns the universal truthfulness hyperplane inside large language models and represents Junteng Liu's recorded research interest in LLM truthfulness and interpretability.
+
+[Back to all publications]({{ '/publications/' | relative_url }})
