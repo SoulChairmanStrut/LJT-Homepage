@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/on-the-universal-truthfulness-hyperplane-inside-llms
 excerpt: 'First author. Published at EMNLP 2024. GitHub code repository: Universal_Truthfulness_Hyperplane.'
-date: 2024
+date: 2024-01-01
 venue: 'EMNLP 2024'
 citation: 'J. Liu, S. Chen, Y. Cheng, and J. He. "On the Universal Truthfulness Hyperplane Inside LLMs." EMNLP 2024.'
 ---
